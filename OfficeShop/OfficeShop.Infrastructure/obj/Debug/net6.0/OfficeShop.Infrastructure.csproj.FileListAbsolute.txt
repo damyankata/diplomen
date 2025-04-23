@@ -1,0 +1,60 @@
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\bin\Debug\net6.0\OfficeShop.Infrastructure.deps.json
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\bin\Debug\net6.0\OfficeShop.Infrastructure.runtimeconfig.json
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\bin\Debug\net6.0\OfficeShop.Infrastructure.dll
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\bin\Debug\net6.0\OfficeShop.Infrastructure.pdb
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.csproj.AssemblyReference.cache
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.AssemblyInfoInputs.cache
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.AssemblyInfo.cs
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.sourcelink.json
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.dll
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\refint\OfficeShop.Infrastructure.dll
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.pdb
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.genruntimeconfig.cache
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\ref\OfficeShop.Infrastructure.dll
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\bin\Debug\net6.0\OfficeShop.Infrastructure.deps.json
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\bin\Debug\net6.0\OfficeShop.Infrastructure.runtimeconfig.json
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\bin\Debug\net6.0\OfficeShop.Infrastructure.dll
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\bin\Debug\net6.0\OfficeShop.Infrastructure.pdb
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.AssemblyInfo.cs
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.sourcelink.json
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.dll
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\refint\OfficeShop.Infrastructure.dll
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.pdb
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.genruntimeconfig.cache
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\ref\OfficeShop.Infrastructure.dll
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\bin\Debug\net6.0\OfficeShop.Infrastructure.deps.json
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\bin\Debug\net6.0\OfficeShop.Infrastructure.runtimeconfig.json
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\bin\Debug\net6.0\OfficeShop.Infrastructure.dll
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\bin\Debug\net6.0\OfficeShop.Infrastructure.pdb
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.csproj.AssemblyReference.cache
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.AssemblyInfoInputs.cache
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.AssemblyInfo.cs
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.csproj.CoreCompileInputs.cache
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.sourcelink.json
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.dll
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\refint\OfficeShop.Infrastructure.dll
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.pdb
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.genruntimeconfig.cache
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\ref\OfficeShop.Infrastructure.dll
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\bin\Debug\net6.0\OfficeShop.Infrastructure.deps.json
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\bin\Debug\net6.0\OfficeShop.Infrastructure.runtimeconfig.json
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\bin\Debug\net6.0\OfficeShop.Infrastructure.dll
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\bin\Debug\net6.0\OfficeShop.Infrastructure.pdb
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.csproj.AssemblyReference.cache
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.AssemblyInfoInputs.cache
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.AssemblyInfo.cs
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.sourcelink.json
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.dll
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\refint\OfficeShop.Infrastructure.dll
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.pdb
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\OfficeShop.Infrastructure.genruntimeconfig.cache
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Infrastructure\obj\Debug\net6.0\ref\OfficeShop.Infrastructure.dll

@@ -1,0 +1,72 @@
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Core.deps.json
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Core.runtimeconfig.json
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Core.dll
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Core.pdb
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Infrastructure.dll
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Infrastructure.pdb
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.csproj.AssemblyReference.cache
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.AssemblyInfoInputs.cache
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.AssemblyInfo.cs
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.csproj.CoreCompileInputs.cache
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.sourcelink.json
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeSh.8B77560E.Up2Date
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.dll
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\refint\OfficeShop.Core.dll
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.pdb
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.genruntimeconfig.cache
+D:\Github\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\ref\OfficeShop.Core.dll
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Core.deps.json
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Core.runtimeconfig.json
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Core.dll
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Core.pdb
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Infrastructure.dll
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Infrastructure.pdb
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.csproj.AssemblyReference.cache
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.AssemblyInfoInputs.cache
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.AssemblyInfo.cs
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.sourcelink.json
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeSh.8B77560E.Up2Date
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.dll
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\refint\OfficeShop.Core.dll
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.pdb
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.genruntimeconfig.cache
+C:\Users\aleks\Downloads\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\ref\OfficeShop.Core.dll
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Core.deps.json
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Core.runtimeconfig.json
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Core.dll
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Core.pdb
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Infrastructure.dll
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Infrastructure.pdb
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.csproj.AssemblyReference.cache
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.AssemblyInfoInputs.cache
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.AssemblyInfo.cs
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.csproj.CoreCompileInputs.cache
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.sourcelink.json
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeSh.8B77560E.Up2Date
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.dll
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\refint\OfficeShop.Core.dll
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.pdb
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.genruntimeconfig.cache
+D:\office mebelui\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\ref\OfficeShop.Core.dll
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Core.deps.json
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Core.runtimeconfig.json
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Core.dll
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Core.pdb
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Infrastructure.dll
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\bin\Debug\net6.0\OfficeShop.Infrastructure.pdb
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.csproj.AssemblyReference.cache
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.AssemblyInfoInputs.cache
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.AssemblyInfo.cs
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.csproj.CoreCompileInputs.cache
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.sourcelink.json
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeSh.8B77560E.Up2Date
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.dll
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\refint\OfficeShop.Core.dll
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.pdb
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\OfficeShop.Core.genruntimeconfig.cache
+C:\DiplomenOfisMebeli\DiplomenOfisMebeli\OfficeShop\OfficeShop.Core\obj\Debug\net6.0\ref\OfficeShop.Core.dll

@@ -1,0 +1,80 @@
+﻿@page
+@model LightsShop.Areas.Identity.Pages.Account.RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+            <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                </div>
+                <div class="col-md-6 mb-3">
+                </div>
+            </div>
+                    <div class="form-floating">
+                        <input asp-for="Input.UserName" class="form-control " aria-required="true" placeholder="Потребителско име" />
+                        <label asp-for="Input.UserName" class="form-label text-muted">Потребителско име</label>
+                        <span asp-validation-for="Input.UserName" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating">
+                        <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="Имейл" />
+                        <label asp-for="Input.Email" class="form-label text-muted">Имейл</label>
+                        <span asp-validation-for="Input.Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating">
+                        <input asp-for="Input.FirstName" class="form-control" aria-required="true" placeholder="Име" />
+                        <label asp-for="Input.FirstName" class="form-label text-muted">Име</label>
+                        <span asp-validation-for="Input.FirstName" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating">
+                        <input asp-for="Input.LastName" class="form-control " aria-required="true" placeholder="Фамилия" />
+                        <label asp-for="Input.LastName" class="form-label text-muted">Фамилия</label>
+                        <span asp-validation-for="Input.LastName" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating">
+                        <input asp-for="Input.PhoneNumber" class="form-control " placeholder="Телефонен номер" />
+                        <label asp-for="Input.PhoneNumber" class="form-label text-muted">Телефонен номер</label>
+                        <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating">
+                        <input asp-for="Input.Address" class="form-control" placeholder="Адрес" />
+                        <label asp-for="Input.Address" class="form-label text-muted">Адрес</label>
+                        <span asp-validation-for="Input.Address" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-floating">
+                        <input asp-for="Input.Password" type="password" class="form-control"  aria-required="true" placeholder="Парола" />
+                        <label asp-for="Input.Password" class="form-label text-muted">Парола</label>
+                        <span asp-validation-for="Input.Password" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating">
+                        <input asp-for="Input.ConfirmPassword" type="password" class="form-control"  aria-required="true" placeholder="Потвърди парола" />
+                        <label asp-for="Input.ConfirmPassword" class="form-label">Потвърди парола</label>
+                        <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                    </div>
+
+            <div class="d-grid gap-2 mt-4">
+                <button id="registerSubmit" type="submit" class="btn btn-primary btn-lg rounded-3">
+                    <i class="bi bi-person-plus me-2"></i>Регистрация
+                </button>
+            </div>
+
+            <div class="text-center mt-3">
+                <p class="small text-muted">
+                    Вече имате профил?
+                    <a asp-page="./Login" class="text-primary fw-bold">Влезте тук</a>
+                </p>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
